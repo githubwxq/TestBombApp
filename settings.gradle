@@ -1,0 +1,4 @@
+include ':app', ':'
+include ':easyTools'
+include ':fTPClient'
+include ':photoSelector'

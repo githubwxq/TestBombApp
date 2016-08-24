@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!--字体定义-->
+    <dimen name="text_super_mini">8sp</dimen>
+    <dimen name="text_mini">10sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="text_big">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_super_large">20sp</dimen>
+	<dimen name="line_height">1dp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\switch_off_bg.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\switch_off_bg.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_segment_right_n.9.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_segment_right_n.9.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_segment_right_p.9.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_segment_right_p.9.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\switch_on_bg.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\switch_on_bg.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_segment_left_p.9.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_segment_left_p.9.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_segment_center_p.9.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_segment_center_p.9.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_segment_left_n.9.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_segment_left_n.9.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_segment_center_n.9.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_segment_center_n.9.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\switch_circle.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\switch_circle.png"
+    }
+]

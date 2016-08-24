@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\del_icon_normal.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\del_icon_normal.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon_error.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon_error.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon_point_pre.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon_point_pre.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon_empty.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon_empty.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon_stub.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon_stub.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon_point.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon_point.png"
+    }
+]

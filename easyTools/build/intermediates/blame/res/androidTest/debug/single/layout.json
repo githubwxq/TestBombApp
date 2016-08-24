@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_cycle_viewpager_indicator.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_actionsheet.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_progress.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_dialog.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_view.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\load_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\qv_dialog_changequantity.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\qv_dialog_changequantity.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\no_data_lay.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\no_data_lay.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slide_view_merge.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_svprogresshud.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_svprogresshud.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_alertdialog.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\widget_steps_view.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\widget_steps_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_view.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\switch_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_cycle_viewpager_contet.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\head_title.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\head_title.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_svprogressdefault.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\view_svprogressdefault.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_banner.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\view_banner.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\viewpage.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\layout\\viewpage.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_svstatus_info.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_svstatus_info.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_svstatus_loading.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_svstatus_loading.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_svstatus_error.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_svstatus_error.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_svstatus_success.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_svstatus_success.png"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]

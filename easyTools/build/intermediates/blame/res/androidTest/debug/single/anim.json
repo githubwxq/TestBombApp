@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\actionsheet_dialog_in.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\round_spinner_apple.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\round_spinner_apple.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\actionsheet_dialog_out.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\gear_spinner.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\gear_spinner.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\round_spinner_fade.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\round_spinner_fade.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\svfade_in_center.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\svfade_in_center.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\svslide_out_bottom.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\svslide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\svslide_in_bottom.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\svslide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\svslide_in_top.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\svslide_in_top.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\roatesss.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\roatesss.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\svfade_out_center.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\svfade_out_center.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\round_spinner.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\round_spinner.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\svslide_out_top.xml",
+        "source": "E:\\androidstudio_demo\\TestBombApp\\easyTools\\build\\intermediates\\bundles\\debug\\res\\anim\\svslide_out_top.xml"
+    }
+]

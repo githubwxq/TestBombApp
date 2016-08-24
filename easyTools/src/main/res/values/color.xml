@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="trans">#00000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+     <color name="titlec">#499FDB</color>
+    <color name="floralwhite">#FFFAF0</color><!--花白色 -->
+    <color name="gray">#808080</color>
+    <color name="dimgrey">#696969</color><!--暗灰色 -->
+	<color name="inform_menu_red">#E70B00</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="red">#FF6B18</color>
+    <color name="yellow">#FFAC18</color>
+    <color name="black_half">#50000000</color>
+    <color name="label_color_2">#62605e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#0066FF</color>
+    <color name="no_color">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="light_yellow">#FFF799</color>
+    <!-- 浅灰色字体 -->
+    <color name="dimgray">#7B7B7B</color>
+    <!-- 浅灰色背景 -->
+    <color name="tilte_menu_bg">#7f7f7f</color>
+    <!-- 主题橙色 -->
+    <color name="orange">#ff6c00</color>
+    <!-- 城市列表未选中字的颜色 -->
+    <color name="textcolor">#919196</color>
+    <!-- 主页点击效果 -->
+	<color name="home_click">#ececec</color>
+	<!-- 灰色 -->
+	<color name="content_text_color">#4c4c4c</color>
+	<!-- 模糊 -->
+	<color name="dimeabled">#99FFFFFF</color>
+	<color name="btn_gary_nor">#B5B5B5</color>
+	<color name="btn_gary_sel">#A0A0A0</color>
+	<color name="xt_red">#CD291C</color>
+	
+	
+	 <color name="gesture_background">#ff303237</color>
+    <color name="color_hei_8">#00000000</color>
+
+    <drawable name="trans">@color/color_hei_8</drawable>
+    
+    
+ <!--弹框所需颜色-->    
+    
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+    <!--窗口背景颜色-->
+    <color name="bgColor_svprogressdefaultview">@android:color/white</color>
+    <!--标题颜色-->
+    <color name="textColor_svprogresshuddefault_msg">#000000</color>
+    <color name="roundColor_svprogresshuddefault">#e5e5e5</color>
+    <color name="roundProgressColor_svprogresshuddefault">@android:color/black</color>
+    
+
+  <!-- ListView侧滑删除 -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+    <!-- Loading -->
+    <color name="grey">#ff888888</color>
+    <color name="information_warning">#ffff7e00</color>
+    <color name="aqi_good_color">#ff5cbc06</color>
+    <color name="aqi_light_pollution_color">#ffff8b34</color>
+    <color name="aqi_unhealthy_color">#ffff8b34</color>
+    <color name="aqi_dangerous_color">#ffc92914</color>
+    <color name="aqi_hazardous_color">#ffc92914</color>
+    <color name="aqi_text_color">#ffb2b2b2</color>
+    <color name="trend_view_text_color_backup">#ff9a9a9a</color>
+    <color name="trend_view_text_color">#ff969798</color>
+    <color name="trend_view_weather_text_color">#ff969798</color>
+    <color name="trend_view_yellow_color">#fff07e18</color>
+    <color name="trend_view_blue_color">#ff1b9ce4</color>
+    <color name="trend_view_default_color">#ff000000</color>
+    
+    <color name="triangle">#aa72d572</color>
+    <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+    <color name="view_bg">#00000000</color>
+    <color name="shadow">#25808080</color>
+    <color name="dialog_bg">#f5f5f5</color>
+    <!--tab菜单 -->
+      <color name="background_tab_pressed">#FFFFFF</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SegmentView">
+        <attr name="content" format="string" />
+        <attr name="index" format="integer" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColorN" format="color" />
+        <attr name="textColorP" format="color" />
+        <attr name="leftBg" format="reference" />
+        <attr name="centerBg" format="reference" />
+        <attr name="rightBg" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CheckedRelativeLayout">
+        <attr name="checked" format="boolean" />
+        <attr name="checkmode">
+            <enum name="radio" value="0" />
+            <enum name="check" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

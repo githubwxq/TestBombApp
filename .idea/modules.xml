@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestBombApp.iml" filepath="$PROJECT_DIR$/TestBombApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyTools/easyTools.iml" filepath="$PROJECT_DIR$/easyTools/easyTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fTPClient/fTPClient.iml" filepath="$PROJECT_DIR$/fTPClient/fTPClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoSelector/photoSelector.iml" filepath="$PROJECT_DIR$/photoSelector/photoSelector.iml" />
+    </modules>
+  </component>
+</project>
